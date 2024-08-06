@@ -15,7 +15,7 @@
 </div>
 
 <div id="text" align="center">
-<h1>>Hey there 👋</h1>
+<h1>Hey there 👋</h1>
 </div>
 </div>
  <div align="center">
