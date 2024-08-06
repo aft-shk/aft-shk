@@ -18,7 +18,7 @@
 
  Hey there 👋
  <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDduYm5hcnF2eGpvY200Z2RsZzJ3bXlnZWUwdzluOHQ1cTUwdWsyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="300"/>
+  <img src="" width="600" height="300"/>
 </div>
 
 ---
