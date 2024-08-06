@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/aftabshaikh909" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://leetcode.com/u/aftabshaikh78667/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
+  </a>
 </div>
 
 
