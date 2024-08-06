@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/Leetcode-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
 </div>
+<div id = "views">
+<img src="https://komarev.com/ghpvc/?username=aft-shk&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 
  Hey there 👋
