@@ -15,11 +15,12 @@
 </div>
 
 <div id="text" align="center">
-<h1>Hey there 👋</h1>
+<h1>Hey there 👋, Let's Code for Solid Principles</h1>
 </div>
 </div>
  <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdsbW04bHE4NXFmaTc1N3l2Z3kyZzBsMmRma2szZTJyNXd1cnpxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dwGJLOdbWULVRIBBfz/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdsbW04bHE4NXFmaTc1N3l2Z3kyZzBsMmRma2szZTJyNXd1cnpxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dwGJLOdbWULVRIBBfz/giphy.gif" width="600" height="300"/> -->
+   <img src ="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxMjE0ODMsIm5iZiI6MTcyMzEyMTE4MywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDEyNDYyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1NjNkOTM0NjA4MGExNDBkZDQ3ZDdjYzFiYWVmM2VlMWQ0OTgxYmY4MjQ0N2EzNjEwNjJiYTBiMjkxMDJiYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.t8YBYuQNRY_JMNFd_IkD7LMVtu3ekRlmIShqJDMQPhM" width ="600" height ="600"/>
 </div>
 
 ---
